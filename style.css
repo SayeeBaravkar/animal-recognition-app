@@ -1,0 +1,47 @@
+body 
+{
+    color: deeppink;
+    background-color: black;
+}
+
+.header_div
+{
+    background-color: hotpink;
+
+}
+
+h2 
+{
+    font-family: 'Lobster', cursive;
+    color: red;
+}
+
+h4
+{
+    font-family:sans-serif;
+    font-size: 15px;
+    color: lightpink;
+    letter-spacing: 3px;
+}
+
+.main_div button
+{
+    color: blueviolet;
+    background-color: lightpink;
+    width: 200px;
+    border-color: deeppink;
+    letter-spacing: 5px;
+    margin-top: 25px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    background-color: peachpuff;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height:2.5; 
+    font-size: 18;
+    text-shadow: 5px 5px 5px magenta;
+}
